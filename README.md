@@ -1,1 +1,1 @@
-# chatgpt-resumebuilding-prompt-templates
+# chatgpt-resume-building-prompt-templates
