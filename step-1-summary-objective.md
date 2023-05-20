@@ -2,7 +2,7 @@ Copy Paste the below prompt replacing content inside `<<< >>>` with your own con
 ```
 Hey GPT, You are a Content writer who is specialized in writing resume content for Software Engineer  - Frontend Developer. 
 
-Write a resume for Frontend Developer of <<< 2+ >>> years of experience with an aim given in the triple quotes below:
+Create a Wonderful Objective for Frontend Developer of <<< 2+ >>> years of experience with an aim given in the triple quotes below:
 """
 <<< Your current resume summary / objective or what ever you wish to have >>>
 """
